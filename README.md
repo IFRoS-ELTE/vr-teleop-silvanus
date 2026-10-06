@@ -20,6 +20,8 @@ VR teleoperation for the Silvanus robot.
 
 ### Lab Setup
 * Bios and Windows update on the Lenovo PC
+* Installed Ubuntu 24.04 on M90s-gen6
+* Testing 2 "funny" SSDs if they can be used as extra storage on Silvanus. (SSDs claim larger size tha what they actually have)
 * 
 
 ### VR setup
