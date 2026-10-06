@@ -2,25 +2,39 @@
 
 VR teleoperation for the Silvanus robot.
 
-📖 *Read the full [Project Proposal](PROJECT_PROPOSAL.md) here.*
+*Read the full [Project Proposal](PROJECT_PROPOSAL.md) here.*
+
+---
+
+## Milestones Tracker
+- [ ] Lab Setup
+- [ ] VR setup
+- [ ] Robot Setup
+- [ ] Teleoperation Setup
+- [ ] VLA
+- [ ] Data Recording
 
 ---
 
 ## Progress Log
 
-### Lab Infrastructure Setup
+### Lab Setup
+* Bios and Windows update on the Lenovo PC
+* 
+
+### VR setup
 * 
 * 
 
-### VR Integration
+### Robot Setup
 * 
 * 
 
-### Setup Teleoperation
+### Teleoperation Setup
 * 
 * 
 
-### VLA Research
+### VLA
 * 
 * 
 
