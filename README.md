@@ -43,6 +43,3 @@ VR teleoperation for the Silvanus robot.
 * 
 
 ---
-
-## How to Run
-*(Instructions will go here once the system is finished so others can use it)*
