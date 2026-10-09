@@ -28,7 +28,7 @@ VR teleoperation for the Silvanus robot.
 * (Postponed the multi-user setup of the PC as others will not be using it this semester.) - 10.09.
 
 #### TODO
-* SSH key over password
+* Tailscale only authentication for SSH access. No Password or SSH key option.
 
 
 ### VR setup
