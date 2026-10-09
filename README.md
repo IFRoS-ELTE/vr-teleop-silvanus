@@ -27,6 +27,10 @@ VR teleoperation for the Silvanus robot.
 * Setting up advanced development tools; remote shut down and boot - 10.09.
 * (Postponed the multi-user setup of the PC as others will not be using it this semester.) - 10.09.
 
+#### TODO
+* SSH key over password
+
+
 ### VR setup
 * 
 * 
