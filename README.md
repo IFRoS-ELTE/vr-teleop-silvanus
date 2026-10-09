@@ -23,6 +23,9 @@ VR teleoperation for the Silvanus robot.
 * Installed Ubuntu 24.04 on M90s-gen6 - 10.06
 * Testing 2 "funny" SSDs if they can be used as extra storage on Silvanus. (SSDs claim larger size tha what they actually have) - 1st done on 10.07
 * Installed ROS2, Gazebo, Tailscale, Docker utilities etc. Set up of SSH. Tested ROS2 and Gazebo install. - 10.07.
+* 2nd SSD testing - 10.08.
+* Setting up advanced development tools; remote shut down and boot - 10.09.
+* (Postponed the multi-user setup of the PC as others will not be using it this semester.) - 10.09.
 
 ### VR setup
 * 
