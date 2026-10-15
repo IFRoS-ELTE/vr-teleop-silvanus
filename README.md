@@ -31,12 +31,10 @@ VR teleoperation for the Silvanus robot.
 * Firewall (ufw): remote desktop ports only reachable over Tailscale. Disabled sleep/suspend so the PC stays reachable 24/7. - 10.14.
 * Remote Login account for a colleague. Fixed GPU access for remote sessions (`render` group), so Gazebo renders on the GPU instead of the CPU. - 10.15.
 * Added a separate backup admin account. Renamed the main user `ifros-student` → `matyasp` (display name kept, old home path linked). - 10.15.
+* BIOS: power on after power loss. - 10.15.
 
 #### TODO
 * Tailscale only authentication for SSH access. No Password or SSH key option.
-* Disable Tailscale key expiry.
-* BIOS: power on after power loss.
-* Multi-user setup (when needed).
 * Remote access to the Windows side for the professor.
 
 ### VR setup
