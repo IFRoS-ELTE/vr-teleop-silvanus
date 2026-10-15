@@ -26,13 +26,21 @@ VR teleoperation for the Silvanus robot.
 * 2nd SSD testing - 10.08.
 * Setting up advanced development tools; remote shut down and boot - 10.09.
 * (Postponed the multi-user setup of the PC as others will not be using it this semester.) - 10.09.
+*  SSH hardened: key-only login, password login disabled. - 10.13.
+* Remote desktop over RDP: GNOME Remote Login and Desktop Sharing. Made .rdp profiles for laptop and external monitor, fixed the certificate and session-handover prompts. - 10.14.
+* Firewall (ufw): remote desktop ports only reachable over Tailscale. Disabled sleep/suspend so the PC stays reachable 24/7. - 10.14.
+* Remote Login account for a colleague. Fixed GPU access for remote sessions (`render` group), so Gazebo renders on the GPU instead of the CPU. - 10.15.
+* Added a separate backup admin account. Renamed the main user `ifros-student` → `matyasp` (display name kept, old home path linked). - 10.15.
 
 #### TODO
 * Tailscale only authentication for SSH access. No Password or SSH key option.
-
+* Disable Tailscale key expiry.
+* BIOS: power on after power loss.
+* Multi-user setup (when needed).
+* Remote access to the Windows side for the professor.
 
 ### VR setup
-* 
+* Ocolus Rift pick up - 10.14. 
 * 
 
 ### Robot Setup
@@ -44,7 +52,7 @@ VR teleoperation for the Silvanus robot.
 * 
 
 ### VLA
-* 
+* Collected material (papers etc) on VLAs and other topics related to the project
 * 
 
 ### Data Recording
